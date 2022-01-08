@@ -8,4 +8,4 @@
 3. Добавлены анимации средствами CSS с использованием Кейфреймов, встроены видео с YouTube
 
 ## Ссылка проект на GitHub Pages:
-https://art-wd.github.io/how-to-learn/
+https://artem-ch.github.io/how-to-learn/
